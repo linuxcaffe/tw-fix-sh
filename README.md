@@ -1,2 +1,2 @@
-# tw-fix-uuid-dupe-sh
-(placeholder for) a script to help "fix" taskwarrior duplicate uuids
+# tw-fix-sh
+(placeholder for) scripts to help "fix" taskwarrior duplicate uuids and broken references
